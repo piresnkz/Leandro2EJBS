@@ -7,6 +7,7 @@
     background-color: #0083cf;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .lista-cabecalho{
@@ -15,6 +16,7 @@
 }
 .lista-item{
     display: inline-block;
+    padding: 25px;
 }
 .primeira-parte{
     background-image: linear-gradient(#0083cf,white);
@@ -30,5 +32,8 @@
     padding: 15px;
 }
 .foto-estudante{
+    width: 25%;
+}
+.foto-estudante2{
     width: 25%;
 }
